@@ -10,3 +10,6 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
+## Test Area
+
+I am adding this line to make sure my ssh public key is playing nice with git.
